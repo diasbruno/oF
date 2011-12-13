@@ -9,7 +9,7 @@ class OFBase
         
         @no_way = [".","..",".DS_Store",".gitignore",".project","ofAddons.h","of.py","of.rb","of.xml"]
         @addons_xml = "./addons"
-        @addons = ""
+        @addons = "../openframeworks/addons"
         
     end
     
