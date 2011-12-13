@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofxAddon>
+	<name>ofxRange</name>
+	
+	<github>
+		<repo>https://github.com/Flightphase/ofxRange.git</repo>
+		<page>https://github.com/Flightphase/ofxRange</page>
+	</github>
+	
+	<contributors>
+		<name>James George</name>
+	</contributors>
+	
+	<description>
+		a very lightweight min/max container object.
+	</description>
+	
+	<license>
+		MIT,BSD,APACHE?
+	</license>
+	
+</ofxAddon>
