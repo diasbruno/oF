@@ -1,4 +1,4 @@
-oF is a script to manage the installation of openFrameworks and add-ons.
+oF is a script to manage your installation of openFrameworks and add-ons.
 
 i wrote it yesterday before i found http://ofxaddons.com/.
 
