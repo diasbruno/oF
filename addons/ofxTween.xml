@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<of-addon>
+<ofxAddon>
 	<name>ofxTween</name>
 	
 	<github>
@@ -29,4 +29,4 @@
 		MIT,BSD,APACHE?
 	</license>
 	
-</of-addon>
+</ofxAddon>
