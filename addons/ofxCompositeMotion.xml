@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<of-addon>
+	<name>ofxCompositeMotion</name>
+	
+	<github>
+		<repo>git@github.com:diasbruno/ofxCompositeMotion.git</repo>
+		<page>https://github.com/diasbruno/ofxCompositeMotion</page>
+	</github>
+	
+	<contributors>
+		<name>Bruno Dias</name>
+	</contributors>
+	
+	<description>
+		Composite Motion with composite pattern.
+	</description>
+	
+	<license>
+		MIT,BSD,APACHE?
+	</license>
+	
+</of-addon>

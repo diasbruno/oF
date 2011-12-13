@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<of-addon>
+	<name>ofx3DModelLoader</name>
+	
+	<github>
+		<repo>https://github.com/openframeworks/ofx3DModelLoader.git</repo>
+		<page>https://github.com/openframeworks/ofx3DModelLoader</page>
+	</github>
+	
+	<contributors>
+		<name>@arturoc</name>
+	</contributors>
+	
+	<description>
+		Composite Motion with composite pattern.
+	</description>
+	
+	<license>
+		MIT,BSD,APACHE?
+	</license>
+	
+</of-addon>

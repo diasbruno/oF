@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<of-addon>
+	<name>ofxTween</name>
+	
+	<github>
+		<repo>https://github.com/arturoc/ofxTween.git</repo>
+		<page>https://github.com/arturoc/ofxTween</page>
+	</github>
+	
+	<contributors>
+		<name>Arturoc</name>
+		<name>James George</name>
+	</contributors>
+	
+	<description>
+		obviousjim's ofxTween Fork
+		**~~~~**~~~~**~~~~**~~~~**
+
+		This fork is from artuor's original ofxTween 
+		with the added function of being able to
+		access the tween functions statically, much
+		like you would ofMap
+
+		included example projects for both arturo's
+		example and my own
+	</description>
+	
+	<license>
+		MIT,BSD,APACHE?
+	</license>
+	
+</of-addon>
