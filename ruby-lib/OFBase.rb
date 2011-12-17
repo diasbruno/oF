@@ -7,7 +7,7 @@ class OFBase
     ####################################################
     def initialize()
         
-        @no_way = [".","..",".DS_Store",".gitignore",".project","ofAddons.h","of.py","of.rb","of.xml"]
+        @no_way = [".","..",".DS_Store",".gitignore",".project","ofAddons.h","of.py","of.rb"]
         @addons_xml = "./addons"
         @addons = "../openframeworks/addons"
         
@@ -22,10 +22,24 @@ class OFBase
     ####################################################
     def header(title)
       
+        clear = %x[clear]
+        puts clear
+        
+        puts "      +++++++++++      +++++++++ ++++ " 
+        puts "     +++++++++++++     +++++++++ +++  " 
+        puts "    +++++++++++++++    +++++++++ ++   " 
+        puts "   +++++++++++++++++   +++++++++ +    " 
+        puts "  +++++++++++++++++++  +++++++++      " 
+        puts "  +++++++++++++++++++  +++++++++ +++++" 
+        puts "  +++++++++++++++++++  +++++++++ +++++" 
+        puts "   +++++++++++++++++   +++++++++ +++++" 
+        puts "    +++++++++++++++    +++++++++      " 
+        puts "     +++++++++++++     +++++++++         http://ofxAddons.com/" 
+        puts "      +++++++++++      +++++++++         http://openframeworks.cc/"
+        
         puts ""
-        puts "##############################################################"
-        puts "## #{title}"
-        puts "##############################################################"
+        puts "      - #{title}"
+        puts ""
         puts ""
       
     end

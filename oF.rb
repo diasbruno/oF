@@ -1,4 +1,5 @@
 #!/usr/bin/ruby
+
 require 'ruby-lib/OFBase'
 require 'ruby-lib/OFAddon'
 require 'ruby-lib/OFAddons'

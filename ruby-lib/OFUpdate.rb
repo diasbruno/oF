@@ -5,7 +5,6 @@ class OFUpdate < OFBase
     ####################################################
     def initialize()
         super()
-        header("oF - Checking for updates...")
     end
     
 end
